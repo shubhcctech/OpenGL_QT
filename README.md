@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OpenGL STL Viewer</title>
 </head>
 <body>
     <h1>OpenGL STL Viewer</h1>
